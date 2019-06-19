@@ -1,0 +1,8 @@
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\bin\Debug\ConsoleLogging.exe.config
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\bin\Debug\ConsoleLogging.exe
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\bin\Debug\ConsoleLogging.pdb
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\bin\Debug\log4net.dll
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\bin\Debug\log4net.xml
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\obj\Debug\ConsoleLogging.csprojResolveAssemblyReference.cache
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\obj\Debug\ConsoleLogging.exe
+C:\New folder\Pract\CS\ConsoleLogging\ConsoleLogging\obj\Debug\ConsoleLogging.pdb
